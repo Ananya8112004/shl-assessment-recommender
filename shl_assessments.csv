@@ -1,0 +1,11 @@
+Assessment Name,URL,Skills,Duration (mins),Test Type,Remote Testing Support,Adaptive/IRT Support
+Java Developer Test,https://www.shl.com/products/java-developer-test,Java; Problem Solving; Communication,40,Technical,Yes,Yes
+Python & SQL Test,https://www.shl.com/products/python-sql-test,Python; SQL; Logic,60,Technical,Yes,No
+Frontend Developer Assessment,https://www.shl.com/products/frontend-dev-assessment,JavaScript; HTML; CSS; UI Skills,45,Technical,Yes,Yes
+Data Analyst Aptitude Test,https://www.shl.com/products/data-analyst-test,Analytics; Excel; Reasoning,30,Cognitive,Yes,No
+Cognitive Ability Test,https://www.shl.com/products/cognitive-ability-test,Cognitive Skills; Problem Solving,25,Cognitive,Yes,Yes
+Personality & Culture Fit,https://www.shl.com/products/personality-fit,Personality; Culture; Communication,20,Personality,Yes,Yes
+Business Communication Test,https://www.shl.com/products/business-comm-test,English; Comms; Grammar,30,Communication,Yes,No
+Software Engineering Assessment,https://www.shl.com/products/software-engineering,Python; Java; Data Structures,60,Technical,Yes,Yes
+AI & ML Developer Test,https://www.shl.com/products/ai-ml-developer,Machine Learning; AI; Statistics,60,Technical,Yes,No
+Customer Support Screening,https://www.shl.com/products/customer-support,Comms; Empathy; Conflict Handling,30,Situational,Yes,No
